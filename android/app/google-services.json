@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097576701078",
+    "project_id": "facebookclone-7edab",
+    "storage_bucket": "facebookclone-7edab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097576701078:android:7afc30a9ba22189b83f6b7",
+        "android_client_info": {
+          "package_name": "com.reactnativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097576701078-p24qqcnnb3hdi7bm2fr6vfceifodblpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQAt0RKXswPhwlkpC9g3BfNb3f_iysS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097576701078-p24qqcnnb3hdi7bm2fr6vfceifodblpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
